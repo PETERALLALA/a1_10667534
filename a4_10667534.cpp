@@ -8,7 +8,7 @@ int main()
 {
    int n1, n2;
 
-   //G.C.D = Greatet Common Diviser
+   //G.C.D = Greatest Common Diviser
 
    cout << "Enter two positive integers: ";
    cin >> n1 >> n2;
